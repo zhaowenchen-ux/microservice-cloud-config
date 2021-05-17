@@ -14,4 +14,4 @@ spring:
 spring:
   profiles: test
   application:
-    name: cloud-config-test
+    name: cloud-config-xbg
